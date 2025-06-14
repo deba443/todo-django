@@ -1,0 +1,28 @@
+# Ignore Python virtual environment folder
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+
+# If you use local settings files
+local_settings.py
+
+# VS Code settings folder (optional)
+.vscode/
+
+# PyCharm settings folder (optional)
+.idea/
+
+# macOS system files (optional)
+.DS_Store
